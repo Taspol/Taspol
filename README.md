@@ -30,7 +30,7 @@ Making a sunflower sprout smart farm by using microcontroller to control waterin
 Decide UX/UI of application that help seller to manage stock efficiently. (Decide by using Figma)
 ### 3. Frontend Dev
 #### Restaurant Reservation Web
-Making Reservation of the Restaurant reservation page in the Web
+Making the Restaurant reservation Web with myfriends
 
 ## 🧩 Badges 👇
 
