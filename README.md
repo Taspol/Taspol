@@ -19,7 +19,7 @@ Experienced about IOT project , UX/UI Design and also have been attended in Hack
 
 # 📌 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,c,docker,js,html,css,react,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,c,cpp,docker,js,html,css,react,figma&theme=light)](https://skillicons.dev)
 
 # 🚩 Experience
 ### 1. IOT Project
