@@ -1,3 +1,4 @@
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi!+👋;+I'm+Pan!;" />
 </h1>
@@ -18,11 +19,18 @@ Experienced about IOT project , UX/UI Design and also have been attended in Hack
 
 # 📌 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,c,docker,js,html,css,react,figma&theme=light)](https://skillicons.dev)
 
 # 🚩 Experience
-
-Well, so far you have been able to find cool ideas from the profiles of different people. Now it's time to use different tools to beautify your github profile, which you can access from the list below.
+### 1. IOT Project
+#### Smart farm
+Making a sunflower sprout smart farm by using microcontroller to control watering system and record environment in Smart farm.
+### 2. UX/UI design
+#### UX/UI of stock manage and selling application
+Decide UX/UI of application that help seller to manage stock efficiently. (Decide by using Figma)
+### 3. Frontend Dev
+#### Restaurant Reservation Web
+Making Reservation of the Restaurant reservation page in the Web
 
 ## 🧩 Badges 👇
 
@@ -31,9 +39,12 @@ Well, so far you have been able to find cool ideas from the profiles of differen
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
-[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/full-stack-technical-joke-comedian.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
+
+<div align="center">
+    
 ![Taspol's GitHub stats](https://github-readme-stats.vercel.app/api?username=taspol&show_icons=true&theme=radical)
+</div>
 
 
 
