@@ -1,6 +1,8 @@
-### Hi there 👋
+# About Me
+My name is Pan, CEDT-Chula student 
 
-<!--
+
+
 **Taspol/Taspol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Image](https://media.licdn.com/dms/image/D5603AQHLF7NsG07jeA/profile-displayphoto-shrink_800_800/0/1700675584327?e=2147483647&v=beta&t=yAf5mGF_tL3_Ve4Zr5UXF2kLUDU4kTL9DpLXug72VaY)
