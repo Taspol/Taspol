@@ -1,8 +1,3 @@
-# About Me
-## My name is Pan, CEDT-Chula student 
-Skills: 
-
-
 # Hello I'm Pan 🖐️ , CEDT-Chula student 
 
 # 📖 Table of Contents
