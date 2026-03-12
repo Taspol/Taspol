@@ -27,7 +27,8 @@ I'm a Computer Engineering student at Chulalongkorn University with expertise sp
 * **Focus:** Generative AI, Machine Learning, Computer Vision
 
 ### Developer Tools & Cloud
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,nextjs,react,figma,express,mongodb,postgres,aws,gcp,cloudflare,linux,ros,pnpm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,nextjs,react,figma,express&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,cloudflare,linux,ros,pnpm&theme=light)](https://skillicons.dev)
 * **Frameworks/Tools:** Next.js, Express.js, MiniConda, Package Managers (uv, pnpm) ,ROS/ROS2
 * **Cloud & Databases:** AWS, Google Cloud, Alibaba Cloud, MongoDB, PostgreSQL, Qdrant (Vector DB)
 
