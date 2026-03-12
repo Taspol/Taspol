@@ -1,9 +1,9 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi!+👋;+I'm+Pan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi!+👋;+I'm+Taspol!;" />
 </h1>
 
-# Hello I'm Pan 🖐️ , CEDT-Chula student 
+# Hello I'm Taspol 🖐️ , CEDT-Chula student 
 
 # 📖 Table of Contents
 
