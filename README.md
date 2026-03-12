@@ -19,7 +19,24 @@ Experienced about IOT project , UX/UI Design and also have been attended in Hack
 
 # 📌 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,c,cpp,docker,js,html,css,react,figma&theme=light)](https://skillicons.dev)
+### 💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,c,java&theme=light)](https://skillicons.dev)
+* **Intermediate - Advanced:** Python, SQL, C, C++, Java, TypeScript, JavaScript
+
+### 🤖 Artificial Intelligence & Data Science
+* **AI Tools:** PyTorch, TensorFlow, scikit-learn, OpenCV, MediaPipe, Hugging Face
+* **Data Tools:** NumPy, Pandas, PySpark, Plotly, Matplotlib, Streamlit, Jupyter Notebooks, Google Sheets
+* **Focus:** Generative AI, Machine Learning, Computer Vision
+
+### 🛠️ Developer Tools & Cloud
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,nextjs,react,figma,express,mongodb,postgres,aws,gcp&theme=light)](https://skillicons.dev)
+* **Frameworks/Tools:** Next.js, Express.js, MiniConda, Package Managers (uv, pnpm) ,ROS/ROS2
+* **Cloud & Databases:** AWS, Google Cloud, Alibaba Cloud, MongoDB, PostgreSQL, Qdrant (Vector DB)
+
+### 🔌 Embedded Systems & IoT
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light)](https://skillicons.dev)
+* **Hardware:** STM32, ESP32, Jetson Nano
+* **Tools:** STM32CubeIDE, PlatformIO, KiCad, ArduinoIDE, MQTT Broker
 
 # 🚩 Experience
 ### 1. IOT Project
