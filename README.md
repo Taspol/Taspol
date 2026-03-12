@@ -4,19 +4,18 @@
 </h1>
 
 # Hello I'm Taspol 🖐️ , CEDT-Chula student 
+you can take a look for my web port here: https://portfolio.taspolsd.dev
 
-# 📖 Table of Contents
+# Table of Contents
 
-- [📌 Passionate :](#-passionate)
-- [💡 Skills :](#-skills)
-- [🚩 Experience : ](#-experience)
-  - [🧩 Badges ](#-badges-)
-
-# 🌠 Passionate
+- [Passionate :](#-passionate)
+- [Skills :](#-skills)
+  
+# Passionate
 
 I'm a Computer Engineering student at Chulalongkorn University with expertise spanning data science, robotics, embedded systems, and AI development. My passion lies in creating intelligent systems that bridge hardware and software innovation.
 
-# 📌 Skills
+# Skills
 
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,c,java&theme=light)](https://skillicons.dev)
@@ -36,25 +35,6 @@ I'm a Computer Engineering student at Chulalongkorn University with expertise sp
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light)](https://skillicons.dev)
 * **Hardware:** STM32, ESP32, Jetson Nano
 * **Tools:** STM32CubeIDE, PlatformIO, KiCad, ArduinoIDE, MQTT Broker
-
-# 🚩 Experience
-### 1. IOT Project
-#### Smart farm
-Making a sunflower sprout smart farm by using microcontroller to control watering system and record environment in Smart farm.
-### 2. UX/UI design
-#### UX/UI of stock manage and selling application
-Decide UX/UI of application that help seller to manage stock efficiently. (Decide by using Figma)
-### 3. Frontend Dev
-#### Restaurant Reservation Web
-Making the Restaurant reservation Web with myfriends
-
-## 🧩 Badges 👇
-
-#### 1 . CEDT Badges
-
-[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
-[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
-[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
 
 <div align="center">
