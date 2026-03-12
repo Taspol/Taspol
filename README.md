@@ -14,8 +14,7 @@
 
 # 🌠 Passionate
 
-Passionate about learning new things such as Developer , Data Analytic , Tester.
-Experienced about IOT project , UX/UI Design and also have been attended in Hackathon competition.
+I'm a Computer Engineering student at Chulalongkorn University with expertise spanning data science, robotics, embedded systems, and AI development. My passion lies in creating intelligent systems that bridge hardware and software innovation.
 
 # 📌 Skills
 
